@@ -7,4 +7,5 @@ Keras
 PyTorch
 Pandas
 Matplotlib
- 
+ SciPy
+Eli5
