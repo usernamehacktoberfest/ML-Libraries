@@ -1,0 +1,13 @@
+TensorFlow
+NumPy
+SciPy 
+Pandas
+Matplotlib 
+Keras
+SciKit-Learn
+PyTorch
+Scrapy
+BeautifulSoup
+PyGame
+PyBrain
+Statsmodels
